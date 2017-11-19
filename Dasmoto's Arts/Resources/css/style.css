@@ -1,0 +1,12 @@
+.brushes {background-color: MediumSpringGreen;}
+.brushes, .frames, .paint {font-size: 32px;}
+.brushes, .frames, .paint {color: white;}
+.price {color: blue;}
+.price {font-weight: bold;}
+.frames {background-color: LightCoral;}
+.paint {background-color: SkyBlue;}
+h1 {background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg")}
+h1 {color: khaki;}
+h1 {font-size: 100px;}
+h1 {text-align: center;}
+h1, h2, h3, p {font-family: Helvetica;}
